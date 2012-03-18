@@ -1,0 +1,14 @@
+﻿Programmer todo list:
+-Get the new weapons system implemented
+-Put obstacles into the arena
+
+Artist todo list:
+-Put a better background in, replace the grass texture
+-4 different character sprites
+-4 different sentry sprites
+-4 different weapon sprites
+-4 different bullet sprites
+---the weapon shoots a specific bullet
+-loading screen image
+-main menu screen image
+-player select screen background image

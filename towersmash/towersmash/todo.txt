@@ -1,0 +1,9 @@
+﻿-introductory level to teach people the controls
+-get the controls for multiplayer working on the 360
+-get sound effects for gun shots working
+-get more art assets to make it a better experience
+-implement game win and lose conditions for the players
+-implement a "life" system so the players can have x amount of lives
+-implement a player join and exit screen for before and during the game
+-look into, document, and apply what's needed for the game to make it xbox live indie games
+-
